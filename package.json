@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-module",
+  "author": "Maksym Kolych",
+  "version": "1.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
